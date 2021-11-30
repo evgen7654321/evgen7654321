@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @evgen7654321 IT-сфере
+- 👋 Hi, I’m @evgen7654321 ищу работу в ITсфере
 - 🌱 I’m currently learning в СкиллФэктору на тестировщика автоматизатора
 - 💞️ I’m looking to collaborate on  различными интересными проектами
 - 📫 How to reach me  - до меня не нужно добираться, я сам найдусь
